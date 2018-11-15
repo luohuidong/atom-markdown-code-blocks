@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-`": "markdown-code-blocks:toggle"
+  }
+}

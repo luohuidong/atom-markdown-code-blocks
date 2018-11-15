@@ -1,0 +1,19 @@
+{
+  "name": "markdown-code-blocks",
+  "main": "./lib/markdown-code-blocks",
+  "version": "1.0.0",
+  "description": "A markdown code blocks generator.",
+  "keywords": [
+    "Markdown"
+  ],
+  "activationCommands": {
+    "atom-workspace": "markdown-code-blocks:toggle"
+  },
+  "repository": "https://github.com/luohuidong/atom-markdown-code-blocks",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

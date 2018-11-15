@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle markdown-code-blocks",
+        "command": "markdown-code-blocks:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "markdown-code-blocks",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "markdown-code-blocks:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
