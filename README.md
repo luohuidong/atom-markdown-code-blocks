@@ -7,7 +7,6 @@ If you are tired of typing <code>`</code> six times for generating markdown code
 Hit <code>ctrl + shift + `</code> to generate following content.
 <pre>
 ```
-
 ```
 </pre>
 
